@@ -9,7 +9,7 @@ Clone the repository:
 
 
 
-git clone https://github.com/DedicatedToCloud08/BlockChain-Project-Jan2022.git
+    git clone https://github.com/prajaktamhatre22/BlockchainProject_22.git
 
 
 
