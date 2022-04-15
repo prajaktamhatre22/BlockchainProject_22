@@ -1,7 +1,5 @@
 # BlockchainProject_22
-
-In this project, I have created a smart contract which is following the ERC20 standards. The smart contract is then invoked by a nodejs application to distribute tokens to 10 different wallet addresses.
-
+In this project, I constructed a smart contract that adheres to the ERC20 protocol.A nodejs application then uses the smart contract to distribute tokens to ten distinct wallet addresses. 
 
 
 # Step 1
@@ -62,7 +60,7 @@ npm install dotenv
 
 
 
-# Step 3
+# Step 4
 
 
 
